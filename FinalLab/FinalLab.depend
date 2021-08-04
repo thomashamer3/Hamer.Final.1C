@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1628084923 source:c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\input.c
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1628040704 c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1628084802 source:c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1628083462 c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\linkedlist.h
+
+1628085476 source:c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"input.h"
+	"Controller.h"
+	"Parser.h"
+	"participantes.h"
+
+1628083720 c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\controller.h
+
+1628084859 c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\parser.h
+
+1628084859 c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\participantes.h
+
+1628084886 source:c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\participantes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"participantes.h"
+
+1628085646 source:c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"input.h"
+	"participantes.h"
+	"Controller.h"
+	"Parser.h"
+
+1628084802 source:c:\users\electronicg\desktop\trabajos code blocks y ejercicios\finallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"input.h"
+	"participantes.h"
+	"Controller.h"
+	"Parser.h"
+
